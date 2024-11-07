@@ -1,0 +1,3 @@
+﻿  ola.cpp
+C:\Users\User\source\repos\bonus1\bonus1\ola.cpp(5,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  bonus1.vcxproj -> C:\Users\User\source\repos\bonus1\x64\Debug\bonus1.exe
