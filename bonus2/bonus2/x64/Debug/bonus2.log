@@ -1,0 +1,3 @@
+﻿  ex bonus 2 yay.cpp
+C:\Users\User\source\repos\bonus2\bonus2\ex bonus 2 yay.cpp(5,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  bonus2.vcxproj -> C:\Users\User\source\repos\bonus2\x64\Debug\bonus2.exe
