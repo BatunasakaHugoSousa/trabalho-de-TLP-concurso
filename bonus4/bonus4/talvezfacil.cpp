@@ -5,11 +5,11 @@ using namespace std;
 void main() {
 	setlocale(LC_ALL, "Portuguese");
 	int Q, P, V = 0, D = 0, i, A[500], T = 0, OT, D500 = 0, D200 = 0, D100 = 0, D50 = 0, D20 = 0, D10 = 0, D5 = 0, D2 = 0, D1 = 0;
-	cout << ("qual é o peso maximo?\ntem de ser em gramas\n");
+	cout << ("qual Ã© o peso maximo?\ntem de ser em gramas\n");
 	cin >> P;
-	cout << ("quantas notas/moedas tens?(não é o valor)\n");
+	cout << ("quantas notas/moedas tens?(nÃ£o Ã© o valor)\n");
 	cin >> Q;
-	cout << ("quanl tipo de notas/moedas são?\n500, 200, 100, 50, 20, 10, 5 ou moedas de 2 ou 1\n");
+	cout << ("qual tipo de notas/moedas sÃ£o?\n500, 200, 100, 50, 20, 10, 5 ou moedas de 2 ou 1\n");
 	for (i = 0; i < Q; i++)
 	{
 		cin >> A[i];
@@ -163,11 +163,11 @@ void main() {
 	}
 	if (P <= 4)
 	{
-		cout << "não tens espaço suficiente";
+		cout << "nÃ£o tens espaÃ§o suficiente";
 	}
 	else
 	{
-		cout << "podes depositar " << OT << " de dinheiro e o dinheiro é:\n";
+		cout << "podes depositar " << OT << " de dinheiro e o dinheiro Ã©:\n";
 		if (D500 > 0)
 		{
 			cout << "500 " << D500 << "\n";
